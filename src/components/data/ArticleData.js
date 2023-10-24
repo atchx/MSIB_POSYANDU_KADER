@@ -1,0 +1,42 @@
+export const ArticleData = [
+  {
+    img: "https://assets.morinagaplatinum.com/images/milestone/full/569_9_penting-12-cara-menurunkan-panas-pada-bayi-dengan-perawatan-rumahan.png",
+    title: "Penyakit yang Bisa Terjadi pada Anak Saat Musim Pancaroba",
+    author: "Ditinjau secara medis oleh dr. Damar Upahita",
+    source: "Sumber : hellosehat.com",
+    awal: "Seperti yang telah diketahui, musim pancaroba adalah waktu yang rentan terjadi penyakit tidak terkecuali...",
+    full: "Seperti yang telah diketahui, musim pancaroba adalah waktu yang rentan terjadi penyakit, tidak terkecuali pada bayi dan anak. Terlebih, sistem kekebalan tubuh anak umumnya lebih lemah dibandingkan orang dewasa, sehingga rentan terserang penyakit.\n\nMusim pancaroba merupakan masa pergantian dari musim kemarau ke penghujan atau sebaliknya.Peralihan musim biasanya ditandai dengan angin kencang dan tidak tentu arah, curah hujan tidak menentu, serta suhu udara yang tiba-tiba terasa panas dan terik.\n\nKenaikan dan penurunan suhu udara bisa menyebabkan pertumbuhan virus, bakteri, dan jamur secara cepat. Akibatnya, penyebaran penyakit saat musim pancaroba lebih rentan terjadi.\n\nJika kondisi daya tahan tubuh saat musim pancaroba menurun, risiko terserang penyakit tentu bisa bertambah besar, tidak terkecuali bagi bayi dan anak-anak.\n\nBahkan, mereka sering kali lebih rentan mengalami penyakit akibat pergantian cuaca. Dilansir dari Piedmont Healthcare, perubahan cuaca bisa menjadi tantangan tersendiri bagi sistem imun dan sistem muskuloskeletal di dalam tubuh.",
+  },
+  {
+    img: "https://cdn.hellosehat.com/wp-content/uploads/2022/07/421f54b5-shutterstock_2102231185.jpg",
+    title: "Ini Obat Panas Dalam yang Aman untuk Bayi",
+    author: "Ditinjau secara medis oleh dr. Carla Pramudita S",
+    source: "Sumber : hellosehat.com",
+    awal: "Panas dalam dapat dialami oleh siapa saja, termasuk bayi. Meski pada umumnya bukan kondisi yang berbahaya, ada gejala...",
+    full: "Panas dalam dapat dialami oleh siapa saja, termasuk bayi. Meski pada umumnya bukan kondisi yang berbahaya, ada gejala panas dalam pada bayi yang bisa berdampak fatal jika tidak segera ditangani.\n\nApa penyebab panas dalam pada bayi?\n\nSama seperti orang dewasa, istilah panas dalam pada bayi juga digunakan untuk merujuk pada sekelompok gejala yang timbul akibat adanya suatu kondisi pada mulut, tenggorokan, atau saluran pencernaan.\n\nKondisi-kondisi pemicu gejala panas dalam pada bayi di antaranya sebagai berikut.\n\n1. Flu\nSakit tenggorokan adalah salah satu gejala panas dalam yang juga bisa dialami oleh bayi. Gejala ini umumnya disebabkan oleh infeksi virus, seperti pilek. Selain sakit tenggorokan, gejala utama pilek pada bayi biasanya juga berupa hidung tersumbat atau berair.\n\n2. Radang amandel\nTonsilitis atau radang amandel pada anak bayi dapat terjadi akibat infeki virus. Kondisi ini bisa menyebabkan sakit tenggorokan hingga sulit menelan. Demam, suara serak, dan lebih sering ngiler (mengeluarkan air liur) juga bisa dialami oleh bayi.\n\n3. Penyakit tangan, kaki, dan mulut, Pada anak berusia di bawah 5 tahun, penyakit tangan, kaki, dan mulut cukup sering terjadi.",
+  },
+  {
+    img: "https://cdn.hellosehat.com/wp-content/uploads/2017/07/shutterstock_656050825.jpg",
+    title: "Awas, Tremor Bisa Terjadi di Usia Muda, Begini Faktanya",
+    author: "Ditinjau secara medis oleh dr. Carla Pramudita S",
+    source: "Sumber : hellosehat.com",
+    awal: "Meski sebagian besar penderita tremor adalah orangtua, nyatanya, kondisi ini juga dapat dialami oleh...",
+    full: "Panas dalam dapat dialami oleh siapa saja, termasuk bayi. Meski pada umumnya bukan kondisi yang berbahaya, ada gejala panas dalam pada bayi yang bisa berdampak fatal jika tidak segera ditangani.\n\nApa penyebab panas dalam pada bayi?\n\nSama seperti orang dewasa, istilah panas dalam pada bayi juga digunakan untuk merujuk pada sekelompok gejala yang timbul akibat adanya suatu kondisi pada mulut, tenggorokan, atau saluran pencernaan.\n\nKondisi-kondisi pemicu gejala panas dalam pada bayi di antaranya sebagai berikut.\n\n1. Flu\nSakit tenggorokan adalah salah satu gejala panas dalam yang juga bisa dialami oleh bayi. Gejala ini umumnya disebabkan oleh infeksi virus, seperti pilek. Selain sakit tenggorokan, gejala utama pilek pada bayi biasanya juga berupa hidung tersumbat atau berair.\n\n2. Radang amandel\nTonsilitis atau radang amandel pada anak bayi dapat terjadi akibat infeki virus. Kondisi ini bisa menyebabkan sakit tenggorokan hingga sulit menelan. Demam, suara serak, dan lebih sering ngiler (mengeluarkan air liur) juga bisa dialami oleh bayi.",
+  },
+  {
+    img: "https://cdn.hellosehat.com/wp-content/uploads/2016/03/apert-syndrome-adalah-sindrom-apert.jpg",
+    title: "Mengenal Sindrom Apert, Kelainan Genetik Langka pada Bayi",
+    author: "Ditinjau secara medis oleh dr. S.T. Andreas, M.Ked. Sp.A",
+    source: "Sumber : hellosehat.com",
+    awal: "Mungkin sebagian dari Anda pernah mendengar perihal sindrom Apert. Sindrom Apert atau Apert syndrome...",
+    full: "Mungkin sebagian dari Anda pernah mendengar perihal sindrom Apert. Sindrom Apert atau Apert syndrome merupakan penyakit langka bawaan atau yang terlihat saat lahir.Bayi baru lahir dengan sindrom ini dapat memiliki malformasi atau bentuk yang tidak sempurna pada tengkorak, wajah, tangan, dan kaki.\n\nApa itu sindrom Apert?\n\nSindrom Apert atau Apert syndrome adalah kelainan atau cacat bawaan sejak lahir yang diturunkan secara genetik.Sindrom ini ditandai dengan menutupnya tulang tengkorak bayi baru lahir yang terlalu cepat atau yang disebut sebagai craniosynostosis.\n\nMenutupnya tulang tengkorak yang terlalu cepat dapat memengaruhi bentuk kepala dan wajah bayi. Tengkorak kepala bayi yang mengalami sindrom Apert umumnya tumbuh dengan tidak sempurna atau tidak normal, sehingga memengaruhi bentuk kepala dan wajahnya.\n\nPada masa ini, otak bayi pun masih bertumbuh. Alhasil, bayi dengan kondisi kelainan bawaan ini biasanya akan mengalami gangguan penglihatan dan gangguan pada pertumbuhan gigi.\n\nBukan itu saja, tengkorak bayi juga akan mengalami tekanan karena proses penutupan tulang yang terlalu dini tersebut.",
+  },
+  {
+    img: "https://res.cloudinary.com/dk0z4ums3/image/upload/v1637658520/attached_image/cara-mengatasi-anak-takut-jarum-suntik-0-alodokter.jpg",
+    title: "Tak Bisa Sembarang, Ketahui Jarak Pemberian Imunisasi untuk Anak",
+    author: "Ditinjau secara medis oleh dr. Damar Upahita",
+    source: "Sumber : hellosehat.com",
+    awal: "Ibu mungkin sudah tahu bahwa ada banyak jadwal imunisasi atau vaksin yang...",
+    full: "Ibu mungkin sudah tahu bahwa ada banyak jadwal imunisasi atau vaksin yang perlu diberikan kepada anak. Pemberian imunisasi yang tidak bersamaan perlu dilakukan pada waktu lainnya dengan jarak tertentu.\n\nJarak aman memberikan imunisasi untuk anak\n\nImunisasi dibutuhkan untuk melindungi tubuh anak dari penyakit infeksi tertentu. Ini artinya, kemungkinan anak terkena penyakit tersebut menjadi berkurang bila sudah diimunisasi.\n\nJika terkena pun, tingkat keparahannya cenderung ringan sehingga anak tidak merasakan sakit yang parah. Penyakit infeksi anak juga jadi lebih mudah diobati dan kemungkinan sembuhnya lebih besar.\n\nBeberapa penyakit infeksi umumnya memiliki jenis vaksinnya masing-masing. Meski begitu, ada pula satu jenis vaksin yang bisa melindungi tubuh anak dari beberapa penyakit.\n\nMisalnya, imunisasi DPT untuk membantu mencegah penyakit difteri, pertusis, dan tetanus yang disebabkan oleh infeksi bakteri. Kemudian, pemberian dua hingga tiga jenis vaksin juga bisa dikombinasikan atau digabungkan dalam satu dosis suntikan atau diberikan dalam waktu bersamaan.",
+  },
+];
